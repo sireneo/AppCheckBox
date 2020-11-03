@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppCheckBox</string>
+    <string name="txt_num1">Dame un numero</string>
+</resources>
